@@ -29,7 +29,7 @@ Additional Estimates on Home Water Consumption
 [Residential Water Use (PDF)](https://eta-publications.lbl.gov/sites/default/files/water_and_energy_wasted_during_residential_shower_events_findings_from_a_pilot_field_study_of_hot_water_distribution_systems_lbnl-5115e.pdf)  
 The Lawrence Berkeley National Laboratory's report on residential water use.
 
-How We Use Water in These United States (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://esa21.kennesaw.edu/activities/water-use/water-use-overview-epa.pdf))  
+How We Use Water in These United States ([PDF](http://esa21.kennesaw.edu/activities/water-use/water-use-overview-epa.pdf))  
 The EPA's water resource Web site might also be helpful.
 
 [How Can I Save Water](http://www.nyc.gov/html/dep/html/ways_to_save_water/index.shtml)  
@@ -41,12 +41,12 @@ Specific water conservation tools used in Florida can be found at this link.
 Municipal Cost-Benefit Evaluations of Different Water Conservation Strategies
 -----------------------------------------------------------------------------
 
-GDS report on performing a research study quantifying the effectiveness of various water conservation techniques (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.twdb.texas.gov/publications/reports/contracted_reports/doc/2001483390.pdf))
+GDS report on performing a research study quantifying the effectiveness of various water conservation techniques ([PDF](http://www.twdb.texas.gov/publications/reports/contracted_reports/doc/2001483390.pdf))
 
 General Breakdown of Cistern Ownership, including Collectible Rainfall, System Costs, and Potential Maintenance Issues
 ----------------------------------------------------------------------------------------------------------------------
 
-The Texas Rain Harvesting Guide to Rainwater Harvesting (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.twdb.texas.gov/publications/shells/RainwaterHarvesting.pdf
+The Texas Rain Harvesting Guide to Rainwater Harvesting ([PDF](http://www.twdb.texas.gov/publications/shells/RainwaterHarvesting.pdf
 ))
 
 Pictures of Cisterns Systems in Practice
